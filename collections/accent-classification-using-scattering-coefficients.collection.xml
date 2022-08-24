@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Morganne Lerch">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11938</md:content-id>
-  <md:title>Accent Classification using Scattering Coefficients</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>d86e99d2-887b-466c-9f97-b88ac510aedf</md:uuid>
-<md:slug>accent-classification-using-scattering-coefficients</md:slug>
-</metadata>
-
+    <md:content-id>col11938</md:content-id>
+    <md:title>Accent Classification using Scattering Coefficients</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d86e99d2-887b-466c-9f97-b88ac510aedf</md:uuid>
+    <md:slug>accent-classification-using-scattering-coefficients</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m58700"/>
-        
-      
-    
-    
-      <col:module document="m58704"/>
-        
-      
-    
-    
-      <col:module document="m58717"/>
-        
-      
-    
-    
-      <col:module document="m58779"/>
-        
-      
-    
-    
-      <col:module document="m58718"/>
-        
-      
-    
-    
-      <col:module document="m58705"/>
-        
-      
-    
+    <col:module document="m58700"/>
+    <col:module document="m58704"/>
+    <col:module document="m58717"/>
+    <col:module document="m58779"/>
+    <col:module document="m58718"/>
+    <col:module document="m58705"/>
   </col:content>
 </col:collection>
